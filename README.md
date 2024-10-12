@@ -1,15 +1,16 @@
 ## Olá, mundo!👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=samuelmsilva2v&show_icons=true&theme=transparent" />
-</a><a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelmsilva2v&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelmsilva2v&show_icons=true&theme=transparent" alt="Samuel's GitHub stats" />
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmsilva2v&layout=compact&theme=transparent" alt="Top Langs" />
+</p>
 
 ##
 
-### Languages, Frameworks and Tools:
-<div> 
+<h3 align="center"> Languages, Frameworks and Tools: </h3>
+<div align="center"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a> 
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a> 
