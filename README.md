@@ -1,11 +1,13 @@
 ## Olá, mundo!👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samuelmsilva2v&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelmsilva2v&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
-</a>
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/samuelmmsilva2v/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=samuelmsilva2v&show_icons=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/samuelmsilva2v/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelmsilva2v&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
+  </a>
+</div>
 
 ##
 
