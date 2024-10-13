@@ -1,4 +1,5 @@
-## Olá, mundo!👋
+## Olá, mundo! Seja bem-vindo(a) ao meu perfil. 👋
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelmsilva2v&show_icons=true&theme=transparent" alt="Samuel's GitHub stats" />
