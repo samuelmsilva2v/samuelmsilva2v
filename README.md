@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Java developer<br>- Graduated in systems analysis<br>- Studying creation of web systems using spring boot and angular</p>
+<p align="left">- Java / Spring / Angular Developer<br>- Graduated in systems analysis<br></p>
 
 ###
 <br>
