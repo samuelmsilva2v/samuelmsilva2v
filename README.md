@@ -3,7 +3,7 @@
 
 ### Hello, my name is Samuel!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Samuel&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=SamuelMaciel&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 **🚀 Java Developer | RESTful APIs & Web Systems**
 
