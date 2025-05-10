@@ -5,22 +5,30 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Samuel&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>I am a Java developer.</p>
-<p>Graduated in Systems Analysis and Development.</p>
-<p>Currently studying RESTful API development and web systems.</p>
+**🚀 Java Developer | RESTful APIs & Web Systems**
 
-<br>
-<h3 align="left">Languages, Frameworks and Tools:</h3> 
+🎓 Graduated in **Systems Analysis and Development**, with a strong focus on backend development using **Java** and the **Spring** ecosystem.
+
+💻 Currently deepening my knowledge in RESTful API development, web system architecture, and clean coding practices.
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelmsilva2v&show_icons=true&theme=merko&locale=en&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00" alt="samuelmsilva2v" /></p>
 
+🔧 **Hands-on experience with:**
+* Java & Spring (Boot, Security, Data)
+* Relational databases (MySQL, PostgreSQL)
+* Automated testing (JUnit, Mockito)
+* Version control with Git & GitHub
+* System integrations (RabbitMQ, email services)
+
+📚 Always eager to learn and take on new challenges in software development.
+
+<h3 align="left">Languages, Frameworks and Tools:</h3> 
+
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,mysql,postgres,mongodb,docker,rabbitmq&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,angular,mysql,postgres,mongodb,docker,rabbitmq,aws,azure&theme=light)](https://skillicons.dev)
   
 </div> 
-
-<br> <br> <br> <br>
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -32,4 +40,3 @@
     alt="Número de visitantes no perfil"
   />
 </p>
-
