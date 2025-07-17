@@ -29,14 +29,3 @@
   [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,spring,angular,mysql,postgres,mongodb,docker,rabbitmq,aws,azure&theme=dark)](https://skillicons.dev)
   
 </div> 
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/samuelmsilva2v/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
