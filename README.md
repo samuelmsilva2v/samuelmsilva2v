@@ -1,31 +1,26 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=samuelmsilva2v&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-
-### Hello, my name is Samuel!
+### Hello, my name is Samuel! 👋
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SamuelMaciel&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-**🚀 Java Developer | RESTful APIs & Web Systems**
+**🚀 Fullstack Developer | Java, Spring Boot, Angular & Cloud**
 
-🎓 Graduated in **Systems Analysis and Development**, with a strong focus on backend development using **Java** and the **Spring** ecosystem.
+🎓 Graduated in **Systems Analysis and Development**, with strong experience in **backend development** using **Java (8–21)** and the **Spring ecosystem**.  
 
-💻 Currently deepening my knowledge in RESTful API development, web system architecture, and clean coding practices.
+💻 Skilled in building **RESTful APIs**, **microservices** and scalable systems applying **Clean Architecture, SOLID, DDD and TDD**. On the front-end, experienced with **Angular & TypeScript**, creating dynamic and high-usability interfaces.  
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelmsilva2v&show_icons=true&theme=merko&locale=en&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00" alt="samuelmsilva2v" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelmsilva2v&show_icons=true&locale=en&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00" alt="samuelmsilva2v" /></p>
 
-🔧 **Hands-on experience with:**
-* Java & Spring (Boot, Security, Data)
-* Relational databases (MySQL, PostgreSQL)
-* Automated testing (JUnit, Mockito)
-* Version control with Git & GitHub
-* System integrations (RabbitMQ, email services)
-
-📚 Always eager to learn and take on new challenges in software development.
+📌 **Professional Experience:**
+- **Comitê Paralímpico Brasileiro** (Jun/2025 – Present) – Fullstack Developer  
+- **VibeTex** (Apr/2025 – May/2025) – Fullstack Developer  
+- **Tribunal de Justiça RJ** (Aug/2022 – Aug/2024) – Systems Analyst Intern  
 
 <h3 align="left">Languages, Frameworks and Tools:</h3> 
 
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,spring,angular,mysql,postgres,mongodb,docker,rabbitmq,aws,azure&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,,angular,mysql,postgres,mongodb,git,docker,rabbitmq,aws,azure&theme=dark)](https://skillicons.dev)
   
 </div> 
