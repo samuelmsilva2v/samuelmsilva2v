@@ -21,6 +21,6 @@
 
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,,angular,mysql,postgres,mongodb,git,docker,rabbitmq,aws,azure&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,typescript,angular,mysql,postgres,mongodb,git,docker,rabbitmq,aws,azure&theme=dark)](https://skillicons.dev)
   
 </div> 
