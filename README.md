@@ -12,6 +12,8 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelmsilva2v&show_icons=true&locale=en&layout=compact&bg_color=f8efd4&title_color=783c00&text_color=af552e&icon_color=783c00" alt="samuelmsilva2v" /></p>
 
+</br>
+
 📌 **Professional Experience:**
 - **Comitê Paralímpico Brasileiro** (Jun/2025 – Present) – Fullstack Developer  
 - **VibeTex** (Apr/2025 – May/2025) – Fullstack Developer  
