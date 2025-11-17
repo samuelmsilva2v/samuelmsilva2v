@@ -16,7 +16,7 @@
 
 📌 **Professional Experience:**
 - **Comitê Paralímpico Brasileiro** (Jun/2025 – Present) – Fullstack Developer  
-- **VibeTex** (Apr/2025 – May/2025) – Fullstack Developer  
+- **VibeTex** (Apr/2025 – Jun/2025) – Fullstack Developer  
 - **Tribunal de Justiça RJ** (Aug/2022 – Aug/2024) – Systems Analyst Intern  
 
 <h3 align="left">Languages, Frameworks and Tools:</h3> 
